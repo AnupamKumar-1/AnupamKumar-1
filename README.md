@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnupamKumar-1
-- 🏆 Expert on Codeforces with a strong grasp of Data Structures & Algorithms (DSA).
+- 🏆 Expert on Codeforces.
 - 👀 I’m interested in competitive programming and System Design.
 - 🌱 Currently improving my Problem-Solving Skills and Low-Level Design (LLD).
 - 💞️ I’m looking to collaborate on Open-Source Projects, Full-Stack Web Apps, and AI/ML Innovations.
