@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AnupamKumar-1
-- 🏆 Candidate Master on Codeforces.
 - 👀 I’m interested in competitive programming and System Design.
 - 🌱 Currently improving my Problem-Solving Skills and Low-Level Design (LLD).
 - 💞️ I’m looking to collaborate on Open-Source Projects, Full-Stack Web Apps, and AI/ML Innovations.
