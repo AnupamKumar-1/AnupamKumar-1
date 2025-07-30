@@ -26,20 +26,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnupamKumar-1&theme=radical&row=1&margin-w=10&no-bg=true&no-frame=true" />
-</p>
-
----
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnupamKumar-1&theme=radical" />
-</p>
-
 <!---
 AnupamKumar-1/AnupamKumar-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
