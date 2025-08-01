@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anupam Kumar</h1>
-<h3 align="center">🚀 Competitive Programmer | 💻 Full-Stack Developer | 🧠 AI/ML Enthusiast</h3>
+<h3 align="center">🚀 Competitive Programmer | 💻 Software Engineer | 🧠 AI/ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnupamKumar-1&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
