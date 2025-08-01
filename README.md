@@ -20,7 +20,7 @@
 
 <p align="center">
   <!-- your existing skillicons row (without jupyter) -->
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,flask,mongodb,mysql,html,css,tailwind,bootstrap,git,github,docker,tensorflow,scikitlearn,linux,aws,vscode,book" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,flask,mongodb,mysql,html,css,tailwind,bootstrap,git,github,docker,tensorflow,scikitlearn,opencv,linux,aws,vscode,book" />
 
   </p>
 
