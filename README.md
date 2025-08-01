@@ -12,7 +12,17 @@
 
 ### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnupamKumar-1&show_icons=true&theme=radical" alt="Anupam Kumar's GitHub stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnupamKumar-1&theme=radical" alt="Anupam Kumar's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamKumar-1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
