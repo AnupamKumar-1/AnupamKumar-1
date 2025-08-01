@@ -19,20 +19,23 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,react,nodejs,express,mongodb,postgres,html,css,tailwind,bootstrap,git,github,docker,linux,figma,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,mongodb,mysql,html,css,tailwind,bootstrap,git,github,docker,linux,aws,vscode" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnupamKumar-1&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamKumar-1&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AnupamKumar-1&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamKumar-1&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
