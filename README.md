@@ -32,8 +32,8 @@
       <img 
         src="https://github-readme-stats.vercel.app/api?username=AnupamKumar-1
           &show_icons=true
-          &theme=radical
-          &bg_color=ff7e5f,fb4b6b
+          &theme=transparent
+          &bg_color=45,ff7e5f,fb4b6b
           &title_color=ffffff
           &text_color=ffffff
           &icon_color=ffffff" 
@@ -43,16 +43,14 @@
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamKumar-1
           &layout=compact
-          &theme=radical
-          &bg_color=ff7e5f,fb4b6b
+          &theme=transparent
+          &bg_color=45,ff7e5f,fb4b6b
           &title_color=ffffff
-          &text_color=ffffff"
+          &text_color=ffffff" 
         alt="Top Languages" />
     </td>
   </tr>
 </table>
-
-
 ---
 
 
