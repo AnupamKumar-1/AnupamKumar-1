@@ -19,10 +19,13 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,flask,jupyter,mongodb,mysql,html,css,tailwind,bootstrap,git,github,docker,tensorflow,scikitlearn,linux,aws,vscode,book" />
+  <!-- your existing skillicons row (without jupyter) -->
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,flask,mongodb,mysql,html,css,tailwind,bootstrap,git,github,docker,tensorflow,scikitlearn,linux,aws,vscode,book" />
+
+  <!-- a Shields.io badge for Jupyter Notebook -->
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
 </p>
-
-
 
 ---
 
