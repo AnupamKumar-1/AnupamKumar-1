@@ -21,27 +21,6 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <h4>GitHub Stats</h4>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=AnupamKumar-1&show_icons=true&theme=transparent&bg_color=45,ff7e5f,fb4b6b&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
-        alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <h4>Top Languages</h4>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamKumar-1&layout=compact&theme=transparent&bg_color=45,ff7e5f,fb4b6b&title_color=ffffff&text_color=ffffff"
-        alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-
-
----
-
 
 <!---
 AnupamKumar-1/AnupamKumar-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
