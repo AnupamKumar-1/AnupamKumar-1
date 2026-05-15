@@ -12,40 +12,42 @@ I build scalable full-stack applications, multimodal AI systems, and real-time c
 
 ## Featured Projects
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
 ### skymeetAI
-AI-powered distributed video conferencing platform with:
-- WebRTC peer-to-peer media streaming
-- Real-time emotion detection
-- Transcript analysis pipeline
-- Redis-backed distributed socket coordination
-- Multi-service architecture
+AI-powered distributed video conferencing platform with WebRTC, real-time emotion detection, transcript analysis, and Redis-backed distributed coordination.
 
-🔗 <a href="https://github.com/AnupamKumar-1/skymeetAI">github.com/AnupamKumar-1/skymeetAI</a>
+<a href="https://github.com/AnupamKumar-1/skymeetAI">
+  View Repository
+</a>
 
----
+</td>
+
+<td width="33%" valign="top">
 
 ### cogniG
-Multimodal AI chat platform powered by Google Gemini with:
-- Persistent threaded conversations
-- Image understanding
-- Google Search grounding
-- Code execution tools
-- MERN stack architecture
+Multimodal AI chat platform with persistent conversations, image understanding, Google Search grounding, and Gemini-powered code execution.
 
-🔗 <a href="https://github.com/AnupamKumar-1/cogniG">github.com/AnupamKumar-1/cogniG</a>
+<a href="https://github.com/AnupamKumar-1/cogniG">
+  View Repository
+</a>
 
----
+</td>
+
+<td width="33%" valign="top">
 
 ### HandWave
-Real-time American Sign Language (ASL) recognition system using:
-- MediaPipe hand tracking
-- RandomForest classification
-- Flask backend + browser inference
-- Computer vision + ML pipeline
+Real-time ASL recognition system using MediaPipe hand tracking, RandomForest classification, and a Flask-based inference pipeline.
 
-🔗 <a href="https://github.com/AnupamKumar-1/HandWave">github.com/AnupamKumar-1/HandWave</a>
+<a href="https://github.com/AnupamKumar-1/HandWave">
+  View Repository
+</a>
 
----
+</td>
+</tr>
+</table>
 
 ## Tech Stack
 
@@ -57,12 +59,19 @@ Real-time American Sign Language (ASL) recognition system using:
 
 ## Areas of Interest
 
-- Distributed Systems
-- Real-Time Communication (WebRTC)
-- Multimodal AI Applications
-- Computer Vision & Machine Learning
-- Full-Stack Web Development
-- System Design & Backend Engineering
+<table>
+<tr>
+<td align="center" width="33%">Distributed Systems</td>
+<td align="center" width="33%">Real-Time Communication (WebRTC)</td>
+<td align="center" width="33%">Multimodal AI Applications</td>
+</tr>
+
+<tr>
+<td align="center">Computer Vision & Machine Learning</td>
+<td align="center">Full-Stack Web Development</td>
+<td align="center">System Design & Backend Engineering</td>
+</tr>
+</table>
 
 ---
 
