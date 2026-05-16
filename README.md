@@ -1,87 +1,151 @@
-<h1 align="center">Hi, I'm Anupam Kumar</h1>
+<div align="center">
 
-<h3 align="center">
-Full-Stack Software Engineer • AI/ML Enthusiast • Real-Time Systems Builder
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:185fa5&height=200&section=header&text=Anupam%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Real-Time%20Systems&descAlignY=58&descSize=16&descColor=9fe1cb" />
 
-<p align="center">
-I build scalable full-stack applications, multimodal AI systems, and real-time communication platforms.
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=5DCAA5&center=true&vCenter=true&width=600&lines=Building+AI-powered+distributed+systems;WebRTC+%7C+Multimodal+AI+%7C+Real-Time+Apps;Open+to+interesting+problems+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## Featured Projects
+## 🧑‍💻 About Me
+
+```yaml
+name: Anupam Kumar
+role: Full-Stack Software Engineer
+focus:
+  - Distributed Systems & Real-Time Communication
+  - Multimodal AI Applications
+  - Computer Vision & Machine Learning
+  - Scalable Backend Architecture
+currently_building:
+  - AI-powered video conferencing (skymeetAI)
+  - Multimodal chat platforms (cogniG)
+  - ASL recognition systems (HandWave)
+email: thakur.anupam2010@gmail.com
+```
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### skymeetAI
-AI-powered distributed video conferencing platform with WebRTC, real-time emotion detection, transcript analysis, and Redis-backed distributed coordination.
+**[🎥 skymeetAI](https://github.com/AnupamKumar-1/skymeetAI)**
 
-<a href="https://github.com/AnupamKumar-1/skymeetAI">
-  View Repository
-</a>
+AI-powered distributed video conferencing with WebRTC, real-time emotion detection, transcript analysis & Redis-backed coordination.
 
-</td>
+[![Live](https://img.shields.io/badge/Live%20Demo-0f6e56?style=for-the-badge&logo=vercel&logoColor=white)](https://skymeetai.onrender.com/)
+[![Repo](https://img.shields.io/badge/Repository-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnupamKumar-1/skymeetAI)
 
-<td width="33%" valign="top">
-
-### cogniG
-Multimodal AI chat platform with persistent conversations, image understanding, Google Search grounding, and Gemini-powered code execution.
-
-<a href="https://github.com/AnupamKumar-1/cogniG">
-  View Repository
-</a>
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 </td>
-
 <td width="33%" valign="top">
 
-### HandWave
-Real-time ASL recognition system using MediaPipe hand tracking, RandomForest classification, and a Flask-based inference pipeline.
+**[🧠 cogniG](https://github.com/AnupamKumar-1/cogniG)**
 
-<a href="https://github.com/AnupamKumar-1/HandWave">
-  View Repository
-</a>
+Multimodal AI chat platform with persistent conversations, image understanding, Google Search grounding & Gemini-powered code execution.
+
+[![Live](https://img.shields.io/badge/Live%20Demo-185fa5?style=for-the-badge&logo=vercel&logoColor=white)](https://cognig.onrender.com/)
+[![Repo](https://img.shields.io/badge/Repository-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnupamKumar-1/cogniG)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+</td>
+<td width="33%" valign="top">
+
+**[🤚 HandWave](https://github.com/AnupamKumar-1/HandWave)**
+
+Real-time ASL recognition using MediaPipe hand tracking, RandomForest classification & a Flask-based inference pipeline.
+
+[![Live](https://img.shields.io/badge/Live%20Demo-993c1d?style=for-the-badge&logo=vercel&logoColor=white)](https://handwave-6td3.onrender.com/)
+[![Repo](https://img.shields.io/badge/Repository-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnupamKumar-1/HandWave)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-## Tech Stack
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,express,flask,mongodb,mysql,html,css,tailwind,bootstrap,docker,git,github,linux,aws,tensorflow,opencv,vscode" />
-</p>
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Databases & Infra**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
-## Areas of Interest
+## 📊 GitHub Stats
 
-<table>
-<tr>
-<td align="center" width="33%">Distributed Systems</td>
-<td align="center" width="33%">Real-Time Communication (WebRTC)</td>
-<td align="center" width="33%">Multimodal AI Applications</td>
-</tr>
+<div align="center">
 
-<tr>
-<td align="center">Computer Vision & Machine Learning</td>
-<td align="center">Full-Stack Web Development</td>
-<td align="center">System Design & Backend Engineering</td>
-</tr>
-</table>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnupamKumar-1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=5dcaa5&icon_color=5dcaa5&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamKumar-1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=5dcaa5&text_color=c9d1d9" />
 
----
+</div>
 
-## Connect With Me
+<div align="center">
 
-- GitHub: <a href="https://github.com/AnupamKumar-1">github.com/AnupamKumar-1</a>
-- Email: <a href="mailto:thakur.anupam2010@gmail.com">thakur.anupam2010@gmail.com</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnupamKumar-1&theme=dark&hide_border=true&background=0d1117&ring=5dcaa5&fire=5dcaa5&currStreakLabel=5dcaa5)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-<p align="center">
-I enjoy building systems that combine AI, real-time interaction, and scalable backend architecture.
-</p>
+## 🌐 Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-AnupamKumar--1-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnupamKumar-1)
+[![Email](https://img.shields.io/badge/Email-thakur.anupam2010@gmail.com-185fa5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thakur.anupam2010@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185fa5,100:0f6e56&height=100&section=footer" />
+
+</div>
