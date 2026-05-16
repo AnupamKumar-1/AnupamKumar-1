@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:185fa5&height=200&section=header&text=Anupam%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Real-Time%20Systems&descAlignY=58&descSize=16&descColor=9fe1cb" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:185fa5&height=200&section=header&text=Anupam%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Real-Time%20Systems&descAlignY=58&descSize=16&descColor=9fe1cb" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=5DCAA5&center=true&vCenter=true&width=600&lines=Building+AI-powered+distributed+systems;WebRTC+%7C+Multimodal+AI+%7C+Real-Time+Apps;Open+to+interesting+problems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
 
 ```yaml
 name: Anupam Kumar
-role: Full-Stack Software Engineer
+role: Software Engineer
 focus:
   - Distributed Systems & Real-Time Communication
   - Multimodal AI Applications
@@ -43,6 +43,9 @@ AI-powered distributed video conferencing with WebRTC, real-time emotion detecti
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-189fdd?style=flat&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logo=google&logoColor=white)
 
 </td>
 <td width="33%" valign="top">
@@ -80,39 +83,33 @@ Real-time ASL recognition using MediaPipe hand tracking, RandomForest classifica
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frontend**
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**Databases & Infra**
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**AI / ML**
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189fdd?style=for-the-badge&logo=xgboost&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+</div>
 
 ---
 
@@ -120,14 +117,13 @@ Real-time ASL recognition using MediaPipe hand tracking, RandomForest classifica
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnupamKumar-1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=5dcaa5&icon_color=5dcaa5&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamKumar-1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=5dcaa5&text_color=c9d1d9" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=AnupamKumar-1&theme=dark&hide_border=true&background=0d1117&ring=5dcaa5&fire=5dcaa5&currStreakLabel=5dcaa5&dates=c9d1d9)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnupamKumar-1&theme=dark&hide_border=true&background=0d1117&ring=5dcaa5&fire=5dcaa5&currStreakLabel=5dcaa5)](https://git.io/streak-stats)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnupamKumar-1&theme=react-dark&hide_border=true&bg_color=0d1117&color=5dcaa5&line=5dcaa5&point=ffffff&area=true" />
 
 </div>
 
