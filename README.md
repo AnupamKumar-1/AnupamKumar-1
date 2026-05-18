@@ -33,7 +33,7 @@ email: thakur.anupam2010@gmail.com
 <tr>
 <td width="33%" valign="top">
 
-**[🎥 skymeetAI](https://github.com/AnupamKumar-1/skymeetAI)**
+**[🎥 Hoovik](https://github.com/AnupamKumar-1/Hoovik)**
 
 AI-powered distributed video conferencing with WebRTC, real-time emotion detection, transcript analysis & Redis-backed coordination.
 
