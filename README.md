@@ -19,7 +19,7 @@ focus:
   - Computer Vision & Machine Learning
   - Scalable Backend Architecture
 currently_building:
-  - AI-powered video conferencing (skymeetAI)
+  - AI-powered video conferencing (Hoovik)
   - Multimodal chat platforms (cogniG)
   - ASL recognition systems (HandWave)
 email: thakur.anupam2010@gmail.com
@@ -37,8 +37,8 @@ email: thakur.anupam2010@gmail.com
 
 AI-powered distributed video conferencing with WebRTC, real-time emotion detection, transcript analysis & Redis-backed coordination.
 
-[![Live](https://img.shields.io/badge/Live%20Demo-0f6e56?style=for-the-badge&logo=vercel&logoColor=white)](https://skymeetai.onrender.com/)
-[![Repo](https://img.shields.io/badge/Repository-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnupamKumar-1/skymeetAI)
+[![Live](https://img.shields.io/badge/Live%20Demo-0f6e56?style=for-the-badge&logo=vercel&logoColor=white)](https://hoovik.onrender.com/)
+[![Repo](https://img.shields.io/badge/Repository-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnupamKumar-1/Hoovik)
 
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
