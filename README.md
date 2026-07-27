@@ -22,7 +22,6 @@ currently_building:
   - AI-powered video conferencing (Hoovik)
   - Multimodal chat platforms (cogniG)
   - ASL recognition systems (HandWave)
-email: thakur.anupam2010@gmail.com
 ```
 
 ---
