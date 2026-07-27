@@ -27,6 +27,19 @@ email: thakur.anupam2010@gmail.com
 
 ---
 
+## 🌱 Major Open Source Contributions
+
+<div align="center">
+
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://github.com/prisma/prisma)
+[![Merged](https://img.shields.io/badge/-Merged-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/prisma/prisma/pull/29630)
+
+</div>
+
+- **[Prisma ORM](https://github.com/prisma/prisma)** — Contributed a **major fix** for the Microsoft SQL Server adapter via [PR #29630](https://github.com/prisma/prisma/pull/29630), officially included in the **Prisma ORM 7.9.0** release notes.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
