@@ -36,7 +36,7 @@ email: thakur.anupam2010@gmail.com
 
 </div>
 
-- **[Prisma ORM](https://github.com/prisma/prisma)** — Contributed a **fix** for the Microsoft SQL Server adapter via [PR #29630](https://github.com/prisma/prisma/pull/29630), officially included in the [**Prisma ORM 7.9.0**](https://github.com/prisma/prisma/releases/tag/7.9.0) release.
+- **[Prisma ORM](https://github.com/prisma/prisma)** — Contributed a **fix** for the Microsoft SQL Server adapter via [PR #29630](https://github.com/prisma/prisma/pull/29630), included in the official [**Prisma ORM 7.9.0**](https://github.com/prisma/prisma/releases/tag/7.9.0) release.
 
 ---
 
