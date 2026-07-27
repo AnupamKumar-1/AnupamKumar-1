@@ -40,25 +40,6 @@ email: thakur.anupam2010@gmail.com
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=AnupamKumar-1&color=5dcaa5&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnupamKumar-1&theme=dark&hide_border=true&background=0d1117&ring=5dcaa5&fire=5dcaa5&currStreakLabel=5dcaa5&dates=c9d1d9)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnupamKumar-1&theme=react-dark&hide_border=true&bg_color=0d1117&color=5dcaa5&line=5dcaa5&point=ffffff&area=true" />
-</div>
-
----
 
 ## 🌐 Connect
 
