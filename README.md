@@ -31,14 +31,14 @@ currently_building:
 <div align="center">
 
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://github.com/prisma/prisma)
-[![Merged](https://img.shields.io/badge/-Merged-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/prisma/prisma/pull/29630)
+[![Merged](https://img.shields.io/badge/Merged%20PRs-2-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/prisma/prisma/pulls?q=is%3Apr+author%3AAnupamKumar-1)
 
 </div>
 
-- **[Prisma ORM](https://github.com/prisma/prisma)** — Contributed a **fix** for the Microsoft SQL Server adapter via [PR #29630](https://github.com/prisma/prisma/pull/29630), included in the [**Prisma ORM 7.9.0**](https://github.com/prisma/prisma/releases/tag/7.9.0) release.
+- **[Prisma ORM](https://github.com/prisma/prisma)** — Contributed a **fix** for the Microsoft SQL Server adapter via [PR&nbsp;#29630](https://github.com/prisma/prisma/pull/29630), included in the [**Prisma ORM 7.9.0**](https://github.com/prisma/prisma/releases/tag/7.9.0) release.
+- **[Prisma ORM](https://github.com/prisma/prisma)** — Implemented a cross-adapter fix for incorrect `P2002` `modelName` resolution for nested creates; merged as [PR&nbsp;#29628](https://github.com/prisma/prisma/pull/29628).
 
 ---
-
 
 ## 🌐 Connect
 
