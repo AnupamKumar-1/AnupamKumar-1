@@ -35,9 +35,10 @@ currently_building:
 
 </div>
 
-- **[Prisma ORM](https://github.com/prisma/prisma)** — Contributed a **fix** for the Microsoft SQL Server adapter via [PR&nbsp;#29630](https://github.com/prisma/prisma/pull/29630), included in the [**Prisma ORM 7.9.0**](https://github.com/prisma/prisma/releases/tag/7.9.0) release.
-- **[Prisma ORM](https://github.com/prisma/prisma)** — Implemented a cross-adapter fix for incorrect `P2002` `modelName` resolution for nested creates; merged as [PR&nbsp;#29628](https://github.com/prisma/prisma/pull/29628).
+- **[Prisma ORM](https://github.com/prisma/prisma)** — Implemented a **fix** for the Microsoft SQL Server adapter via [PR&nbsp;#29630](https://github.com/prisma/prisma/pull/29630), included in the [**Prisma ORM 7.9.0**](https://github.com/prisma/prisma/releases/tag/7.9.0) release.
+- **[Prisma ORM](https://github.com/prisma/prisma)** — Implemented a cross-adapter fix for incorrect `P2002` `modelName` resolution in nested create unique constraint errors; merged as [PR&nbsp;#29628](https://github.com/prisma/prisma/pull/29628).
 
+  
 ---
 
 ## 🌐 Connect
