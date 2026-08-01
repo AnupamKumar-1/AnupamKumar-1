@@ -26,7 +26,7 @@ currently_building:
 
 ---
 
-## 🌱 Major Open Source Contributions
+## 🌱 Selected Open Source Contributions
 
 <div align="center">
 
