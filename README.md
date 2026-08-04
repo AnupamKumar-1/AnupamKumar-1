@@ -45,7 +45,7 @@ currently_building:
 
 </div>
 
-- **[Apple Swift Build](https://github.com/swiftlang/swift-build)** — Implemented a fix for a Build Server Protocol (BSP) issue by correcting transposed `indexStorePath` and `indexDatabasePath` values in the `build/initialize` response, improving compatibility with BSP clients; merged as [PR&nbsp;#1576](https://github.com/swiftlang/swift-build/pull/1576).
+- **[Apple – Swift Build (swiftlang/swift-build)](https://github.com/swiftlang/swift-build)** — Implemented a fix for a Build Server Protocol (BSP) issue by correcting transposed `indexStorePath` and `indexDatabasePath` values in the `build/initialize` response, improving compatibility with BSP clients; merged as [PR&nbsp;#1576](https://github.com/swiftlang/swift-build/pull/1576).
   
 ---
 
