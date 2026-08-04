@@ -38,6 +38,14 @@ currently_building:
 - **[Prisma ORM](https://github.com/prisma/prisma)** — Implemented a **fix** for the Microsoft SQL Server adapter via [PR&nbsp;#29630](https://github.com/prisma/prisma/pull/29630), included in the [**Prisma ORM 7.9.0**](https://github.com/prisma/prisma/releases/tag/7.9.0) release.
 - **[Prisma ORM](https://github.com/prisma/prisma)** — Implemented a cross-adapter fix for incorrect `P2002` `modelName` resolution in nested create unique constraint errors; merged as [PR&nbsp;#29628](https://github.com/prisma/prisma/pull/29628).
 
+<div align="center">
+
+[![Apple Swift Build](https://img.shields.io/badge/Apple%20Swift%20Build-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/swiftlang/swift-build)
+[![Merged](https://img.shields.io/badge/Merged%20PRs-1-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/swiftlang/swift-build/pulls?q=is%3Apr+author%3AAnupamKumar-1)
+
+</div>
+
+- **[Apple Swift Build](https://github.com/swiftlang/swift-build)** — Implemented a fix for a Build Server Protocol (BSP) issue by correcting transposed `indexStorePath` and `indexDatabasePath` values in the `build/initialize` response, improving compatibility with BSP clients; merged as [PR&nbsp;#1576](https://github.com/swiftlang/swift-build/pull/1576).
   
 ---
 
