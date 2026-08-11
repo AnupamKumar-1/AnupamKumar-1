@@ -46,6 +46,17 @@ currently_building:
 </div>
 
 - **[Apple – Swift Build (swiftlang/swift-build)](https://github.com/swiftlang/swift-build)** — Implemented a fix for a Build Server Protocol (BSP) issue by correcting transposed `indexStorePath` and `indexDatabasePath` values in the `build/initialize` response, improving compatibility with BSP clients; merged as [PR&nbsp;#1576](https://github.com/swiftlang/swift-build/pull/1576).
+
+<div align="center">
+  <a href="https://github.com/tensorflow/tensorflow">
+    <img src="https://img.shields.io/badge/Google%20TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Google TensorFlow">
+  </a>
+  <a href="https://github.com/tensorflow/tensorflow/pull/124931">
+    <img src="https://img.shields.io/badge/Merged%20PR-8957e5?style=for-the-badge&logo=git&logoColor=white" alt="Merged PR">
+  </a>
+</div>
+
+- **[Google – TensorFlow (tensorflow/tensorflow)](https://github.com/tensorflow/tensorflow)** — Fixed `tf.tuple()` to reject nested structures consistently across eager and graph execution; merged as [PR #124931](https://github.com/tensorflow/tensorflow/pull/124931).
   
 ---
 
