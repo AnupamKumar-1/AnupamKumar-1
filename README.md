@@ -28,8 +28,6 @@ currently_building:
 
 ## 🌱 Selected Open Source Contributions
 
-Real PRs, merged into major projects — not just forks and stars.
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -70,17 +68,6 @@ Real PRs, merged into major projects — not just forks and stars.
 </td>
 </tr>
 </table>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=AnupamKumar-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamKumar-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-</div>
 
 <br>
 
