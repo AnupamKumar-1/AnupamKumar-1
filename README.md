@@ -76,6 +76,7 @@ currently_building:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-AnupamKumar--1-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnupamKumar-1)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-185fa5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anupam2025kumar@gmail.com)
 
 </div>
 
