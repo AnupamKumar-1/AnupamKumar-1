@@ -35,7 +35,7 @@ currently_building:
 <div align="center">
 
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://github.com/prisma/prisma)
-[![Merged PRs](https://img.shields.io/badge/2%20Merged%20PRs-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/prisma/prisma/pulls?q=is%3Apr+author%3AAnupamKumar-1)
+[![Merged PRs](https://img.shields.io/badge/%20Merged%20PRs-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/prisma/prisma/pulls?q=is%3Apr+author%3AAnupamKumar-1)
 
 </div>
 
@@ -48,7 +48,7 @@ currently_building:
 <div align="center">
 
 [![TensorFlow](https://img.shields.io/badge/Google%20TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/tensorflow/tensorflow)
-[![Merged PR](https://img.shields.io/badge/Merged%20PR-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/tensorflow/tensorflow/pull/125093)
+[![Merged PR](https://img.shields.io/badge/Merged%20PRS-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/tensorflow/tensorflow/pull/125093)
 
 </div>
 
