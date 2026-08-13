@@ -48,12 +48,12 @@ currently_building:
 <div align="center">
 
 [![TensorFlow](https://img.shields.io/badge/Google%20TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/tensorflow/tensorflow)
-[![Merged PR](https://img.shields.io/badge/Merged%20PR-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/tensorflow/tensorflow/pull/124931)
+[![Merged PR](https://img.shields.io/badge/Merged%20PR-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/tensorflow/tensorflow/pull/125093)
 
 </div>
 
+- Fixed **`tf.reshape()`** to reject multiple **`-1`** dimensions, matching eager and `jit_compile=True` behavior — [PR #125093](https://github.com/tensorflow/tensorflow/pull/125093)
 - Fixed **`tf.tuple()`** to consistently reject nested structures across eager and graph execution — [PR #124931](https://github.com/tensorflow/tensorflow/pull/124931)
-
 <br>
 
 <div align="center">
