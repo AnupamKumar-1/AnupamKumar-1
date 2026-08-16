@@ -20,7 +20,7 @@ focus:
   - Scalable Backend Architecture
 currently_building:
   - 🎥 Hoovik      — AI-powered video conferencing
-  - 💬 cogniG      — Multimodal chat platforms
+  - 💬 Obyflow     — AI-native, CLI-first observability platform
   - 🤟 HandWave    — ASL recognition systems
 ```
 
