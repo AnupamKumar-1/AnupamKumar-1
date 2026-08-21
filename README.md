@@ -48,30 +48,28 @@ currently_building:
 <div align="center">
 
 [![TensorFlow](https://img.shields.io/badge/Google%20TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/tensorflow/tensorflow)
-[![Merged PR](https://img.shields.io/badge/Merged%20PRS-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/tensorflow/tensorflow/pull/125093)
+[![Merged PR](https://img.shields.io/badge/Merged%20PRS-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/tensorflow/tensorflow/pulls?q=is%3Apr+author%3AAnupamKumar-1)
 
 </div>
 
 - Fixed **`tf.reshape()`** to reject multiple **`-1`** dimensions, matching eager and `jit_compile=True` behavior — [PR #125093](https://github.com/tensorflow/tensorflow/pull/125093)
 - Fixed **`tf.tuple()`** to consistently reject nested structures across eager and graph execution — [PR #124931](https://github.com/tensorflow/tensorflow/pull/124931)
 - Fixed **`tf.tuple()`** `AttributeError` for `tf.Variable` inputs under `tf.function` — [PR #125420](https://github.com/tensorflow/tensorflow/pull/125420)
-<br>
 
 <div align="center">
 
-[![Apple Swift Build](https://img.shields.io/badge/Apple%20Swift%20Build-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/swiftlang/swift-build)
-[![Merged PR](https://img.shields.io/badge/Merged%20PR-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/swiftlang/swift-build/pulls?q=is%3Apr+author%3AAnupamKumar-1)
+[![Apple Swiftlang](https://img.shields.io/badge/Apple%20Swiftlang-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/swiftlang)
+[![Merged PR](https://img.shields.io/badge/Merged%20PR-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/swiftlang)
 
 </div>
 
-- Fixed a **Build Server Protocol (BSP)** issue — corrected transposed `indexStorePath` / `indexDatabasePath` values in the `build/initialize` response, improving BSP client compatibility — [PR #1576](https://github.com/swiftlang/swift-build/pull/1576)
+- [swift-build](https://github.com/swiftlang/swift-build) - Fixed a **Build Server Protocol (BSP)** issue — corrected transposed `indexStorePath` / `indexDatabasePath` values in the `build/initialize` response, improving BSP client compatibility — [PR #1576](https://github.com/swiftlang/swift-build/pull/1576)
+- [llvm-project](https://github.com/swiftlang/llvm-project) - Migrated Sema call sites to use `Type::isSinglePointerType()` instead of reading the ptrattr directly off `PointerType`, consolidating pointer-singleness checks under BoundsSafety — [PR #13846](https://github.com/swiftlang/llvm-project/pull/13846)
 
 </td>
 </tr>
 </table>
-
 <br>
-
 ## 🌐 Connect
 
 <div align="center">
