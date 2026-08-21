@@ -54,6 +54,7 @@ currently_building:
 
 - Fixed **`tf.reshape()`** to reject multiple **`-1`** dimensions, matching eager and `jit_compile=True` behavior — [PR #125093](https://github.com/tensorflow/tensorflow/pull/125093)
 - Fixed **`tf.tuple()`** to consistently reject nested structures across eager and graph execution — [PR #124931](https://github.com/tensorflow/tensorflow/pull/124931)
+- Fixed **`tf.tuple()`** `AttributeError` for `tf.Variable` inputs under `tf.function` by routing them through `convert_to_tensor()` instead of skipping conversion — [PR #125420](https://github.com/tensorflow/tensorflow/pull/125420)
 <br>
 
 <div align="center">
