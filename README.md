@@ -70,6 +70,7 @@ currently_building:
 </tr>
 </table>
 <br>
+
 ## 🌐 Connect
 
 <div align="center">
