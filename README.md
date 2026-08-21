@@ -63,8 +63,8 @@ currently_building:
 
 </div>
 
-- [swift-build](https://github.com/swiftlang/swift-build) - Fixed a **Build Server Protocol (BSP)** issue — corrected transposed `indexStorePath` / `indexDatabasePath` values in the `build/initialize` response, improving BSP client compatibility — [PR #1576](https://github.com/swiftlang/swift-build/pull/1576)
 - [llvm-project](https://github.com/swiftlang/llvm-project) - Migrated Sema call sites to use `Type::isSinglePointerType()` instead of reading the ptrattr directly off `PointerType`, consolidating pointer-singleness checks under BoundsSafety — [PR #13846](https://github.com/swiftlang/llvm-project/pull/13846)
+- [swift-build](https://github.com/swiftlang/swift-build) - Fixed a **Build Server Protocol (BSP)** issue — corrected transposed `indexStorePath` / `indexDatabasePath` values in the `build/initialize` response, improving BSP client compatibility — [PR #1576](https://github.com/swiftlang/swift-build/pull/1576)
 
 </td>
 </tr>
