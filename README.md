@@ -47,7 +47,7 @@ currently_building:
 
 <div align="center">
 
-[![TensorFlow](https://img.shields.io/badge/Google%20TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/tensorflow/tensorflow)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/tensorflow/tensorflow)
 [![Merged PR](https://img.shields.io/badge/Merged%20PRS-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/tensorflow/tensorflow/pulls?q=is%3Apr+author%3AAnupamKumar-1)
 
 </div>
@@ -58,7 +58,7 @@ currently_building:
 
 <div align="center">
 
-[![Apple Swiftlang](https://img.shields.io/badge/Apple%20Swiftlang-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/swiftlang)
+[![Swiftlang](https://img.shields.io/badge/Swiftlang-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/swiftlang)
 [![Merged PR](https://img.shields.io/badge/Merged%20PRS-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/swiftlang)
 
 </div>
