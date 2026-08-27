@@ -43,11 +43,11 @@ currently_building:
 <div align="center">
 
 [![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/google/adk-java)
-[![Merged PR](https://img.shields.io/badge/Merged%20PRS-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/google/adk-java/pulls?q=is%3Apr+author%3AAnupamKumar-1)
+[![Merged PR](https://img.shields.io/badge/Merged%20PR-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/google/adk-java/pulls?q=is%3Apr+author%3AAnupamKumar-1)
 
 </div>
 
-- Fixed **`ChatCompletionsHttpClient`** to expose non-success HTTP status via a typed exception instead of a plain `IOException` — [PR #1452](https://github.com/google/adk-java/pull/1452)
+- [adk-java](https://github.com/google/adk-java) - Fixed **`ChatCompletionsHttpClient`** to expose non-success HTTP status via a typed exception instead of a plain `IOException` — [PR #1452](https://github.com/google/adk-java/pull/1452)
 
 </td>
 <td width="50%" valign="top">
