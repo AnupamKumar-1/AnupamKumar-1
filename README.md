@@ -18,10 +18,6 @@ focus:
   - Multimodal AI Applications
   - Computer Vision & Machine Learning
   - Scalable Backend Architecture
-currently_building:
-  - 🎥 Hoovik      — AI-powered video conferencing
-  - 💬 Obyflow     — AI-native, CLI-first observability platform
-  - 🤟 HandWave    — ASL recognition systems
 ```
 
 <br>
