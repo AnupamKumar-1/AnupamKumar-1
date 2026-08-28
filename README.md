@@ -30,15 +30,6 @@ currently_building:
 
 <table>
 <td width="50%" valign="top">
-<div align="center">
-
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://github.com/prisma/prisma)
-[![Merged PRs](https://img.shields.io/badge/%20Merged%20PRs-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/prisma/prisma/pulls?q=is%3Apr+author%3AAnupamKumar-1)
-
-</div>
-
-- Fixed the **Microsoft SQL Server adapter** — [PR #29630](https://github.com/prisma/prisma/pull/29630), shipped in [**Prisma ORM 7.9.0**](https://github.com/prisma/prisma/releases/tag/7.9.0)
-- Resolved incorrect **`P2002` `modelName`** resolution in nested-create unique constraint errors, across adapters — [PR #29628](https://github.com/prisma/prisma/pull/29628)
 
 <div align="center">
 
@@ -48,9 +39,6 @@ currently_building:
 </div>
 
 - [adk-java](https://github.com/google/adk-java) - Fixed **`ChatCompletionsHttpClient`** to expose non-success HTTP status via a typed exception instead of a plain `IOException` — [PR #1452](https://github.com/google/adk-java/pull/1452)
-
-</td>
-<td width="50%" valign="top">
 
 <div align="center">
 
@@ -63,6 +51,9 @@ currently_building:
 - Fixed **`tf.tuple()`** `AttributeError` for `tf.Variable` inputs under `tf.function` by routing them through `convert_to_tensor()` instead of skipping conversion — [PR #125420](https://github.com/tensorflow/tensorflow/pull/125420)
 - Fixed **`tf.tuple()`** to consistently reject nested structures across eager and graph execution — [PR #124931](https://github.com/tensorflow/tensorflow/pull/124931)
 
+</td>
+<td width="50%" valign="top">
+
 <div align="center">
 
 [![Swiftlang](https://img.shields.io/badge/Swiftlang-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/swiftlang)
@@ -72,6 +63,16 @@ currently_building:
 
 - [llvm-project](https://github.com/swiftlang/llvm-project) - Migrated Sema call sites to use `Type::isSinglePointerType()` instead of reading the ptrattr directly off `PointerType`, consolidating pointer-singleness checks under BoundsSafety — [PR #13846](https://github.com/swiftlang/llvm-project/pull/13846)
 - [swift-build](https://github.com/swiftlang/swift-build) - Fixed a **Build Server Protocol (BSP)** issue — corrected transposed `indexStorePath` / `indexDatabasePath` values in the `build/initialize` response, improving BSP client compatibility — [PR #1576](https://github.com/swiftlang/swift-build/pull/1576)
+
+<div align="center">
+
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://github.com/prisma/prisma)
+[![Merged PRs](https://img.shields.io/badge/%20Merged%20PRs-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/prisma/prisma/pulls?q=is%3Apr+author%3AAnupamKumar-1)
+
+</div>
+
+- Fixed the **Microsoft SQL Server adapter** — [PR #29630](https://github.com/prisma/prisma/pull/29630), shipped in [**Prisma ORM 7.9.0**](https://github.com/prisma/prisma/releases/tag/7.9.0)
+- Resolved incorrect **`P2002` `modelName`** resolution in nested-create unique constraint errors, across adapters — [PR #29628](https://github.com/prisma/prisma/pull/29628)
 
 </td>
 </tr>
