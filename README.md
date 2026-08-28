@@ -11,13 +11,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Anupam Kumar
-role: Software Engineer
-focus:
-  - Distributed Systems & Real-Time Communication
-  - Multimodal AI Applications
-  - Computer Vision & Machine Learning
-  - Scalable Backend Architecture
+Building distributed systems, real-time apps, and AI-powered experiences.
 ```
 
 <br>
