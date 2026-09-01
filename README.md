@@ -29,7 +29,7 @@ Building distributed systems, real-time apps, and AI-powered experiences.
 </div>
 
 - [adk-java](https://github.com/google/adk-java) - Fixed **`ChatCompletionsHttpClient`** to expose non-success HTTP status via a typed exception instead of a plain `IOException`, released in [v1.9.0](https://github.com/google/adk-java/releases/tag/v1.9.0) ([052f31a](https://github.com/google/adk-java/commit/052f31ad3799124a36bb3bb732458d748fcc6586))
-- [adk-java](https://github.com/google/adk-java) - Fixed Vertex AI session response handling to validate HTTP status before parsing the response, preventing non-success responses from being parsed as valid session data ([#1467](https://github.com/google/adk-java/pull/1467))
+- [adk-java](https://github.com/google/adk-java) - Fixed Vertex AI session response handling to validate HTTP status before parsing the response, preventing non-success responses from being parsed as valid session data — [PR #1467](https://github.com/google/adk-java/pull/1467)
 
 <div align="center">
 
