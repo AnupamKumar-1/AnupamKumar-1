@@ -1,18 +1,14 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:185fa5&height=220&section=header&text=Anupam%20Kumar&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=Local-first%20AI%20Observability%20%E2%80%A2%20Building%20Obyflow&descAlignY=58&descSize=16&descColor=9fe1cb" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:185fa5&height=220&section=header&text=Anupam%20Kumar&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Real-Time%20Systems&descAlignY=58&descSize=16&descColor=9fe1cb" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=5DCAA5&center=true&vCenter=true&width=650&lines=Building+AI-powered+distributed+systems;WebRTC+%7C+Multimodal+AI+%7C+Real-Time+Apps;Merging+PRs+into+Prisma%2C+TensorFlow+%26+Swift+Build;Open+to+interesting+problems+%F0%9F%9A%80)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=5DCAA5&center=true&vCenter=true&width=650&lines=Building+Obyflow+%E2%80%94+evidence-first+AI+root-cause+investigation;Local-first+observability+for+LLM+%26+agent+systems;Open+source+contributions+to+TensorFlow%2C+Prisma%2C+ADK+%26+Swift)](https://git.io/typing-svg)
 </div>
-
 <br>
 
 ## 🧑‍💻 About Me
 
-```yaml
-Building distributed systems, real-time apps, and AI-powered experiences.
-```
+Building local-first tools for understanding and debugging modern AI systems.  
+Currently focused on **[Obyflow](https://github.com/Obyflow/obyflow)** — evidence-first root-cause investigation for LLM, RAG, and agent applications.
 
 <br>
 
