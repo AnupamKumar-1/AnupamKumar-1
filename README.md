@@ -1,10 +1,3 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:185fa5&height=220&section=header&text=Anupam%20Kumar&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=Local-first%20AI%20Observability%20%E2%80%A2%20Building%20Obyflow&descAlignY=58&descSize=16&descColor=9fe1cb" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=5DCAA5&center=true&vCenter=true&width=650&lines=Building+Obyflow+%E2%80%94+evidence-first+AI+root-cause+investigation;Local-first+observability+for+LLM+%26+agent+systems;Open+source+contributions+to+TensorFlow%2C+Prisma%2C+ADK+%26+Swift)](https://git.io/typing-svg)
-</div>
-<br>
-
 ## 🧑‍💻 About Me
 
 Building local-first tools for understanding and debugging modern AI systems.  
