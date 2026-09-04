@@ -68,9 +68,3 @@ Focused on evidence-first root-cause investigation across traces, failures, and 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-185fa5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anupam2025kumar@gmail.com)
 
 </div>
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:185fa5,100:0f6e56&height=100&section=footer" />
-</div>
