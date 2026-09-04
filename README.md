@@ -1,7 +1,8 @@
 ## 🧑‍💻 About Me
 
-Building local-first tools for understanding and debugging modern AI systems.  
-Currently focused on **[Obyflow](https://github.com/Obyflow/obyflow)** — evidence-first root-cause investigation for LLM, RAG, and agent applications.
+Building **[Obyflow](https://github.com/Obyflow/obyflow)** — a local-first observability platform for debugging LLM, RAG, and agent systems.
+
+Focused on evidence-first root-cause investigation across traces, failures, and AI workflows.
 
 <br>
 
