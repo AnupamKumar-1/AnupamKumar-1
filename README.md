@@ -20,6 +20,7 @@ Focused on evidence-first root-cause investigation across traces, failures, and 
 
 - [adk-java](https://github.com/google/adk-java) - Fixed **`ChatCompletionsHttpClient`** to expose non-success HTTP status via a typed exception instead of a plain `IOException`, released in [v1.9.0](https://github.com/google/adk-java/releases/tag/v1.9.0) ([052f31a](https://github.com/google/adk-java/commit/052f31ad3799124a36bb3bb732458d748fcc6586))
 - [adk-java](https://github.com/google/adk-java) - Fixed Vertex AI session response handling to validate HTTP status before parsing the response, preventing non-success responses from being parsed as valid session data — [PR #1467](https://github.com/google/adk-java/pull/1467)
+- [adk-js](https://github.com/google/adk-js) - Reworked Unix-socket URI parsing in `getConnectionOptionsFromUri` for Postgres, MySQL, and MariaDB, fixing Cloud SQL socket paths (`/cloudsql/PROJECT:REGION:INSTANCE`, `?host=` overrides, percent-encoding) that `new URL()` couldn't handle, merged to `main` and pending release in v2.1.0 ([3b59a2c](https://github.com/google/adk-js/commit/3b59a2c0b361e229ee3b8c26e93588fb512773db))
 
 <div align="center">
 
