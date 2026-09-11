@@ -18,9 +18,21 @@ Focused on evidence-first root-cause investigation across traces, failures, and 
 
 </div>
 
+- [adk-js](https://github.com/google/adk-js) - Reworked Unix-socket URI parsing in `getConnectionOptionsFromUri` for Postgres, MySQL, and MariaDB, fixing Cloud SQL socket paths (`/cloudsql/PROJECT:REGION:INSTANCE`, `?host=` overrides, percent-encoding) that `new URL()` couldn't handle, merged to `main` and pending release in v2.1.0 ([3b59a2c](https://github.com/google/adk-js/commit/3b59a2c0b361e229ee3b8c26e93588fb512773db))
 - [adk-java](https://github.com/google/adk-java) - Fixed **`ChatCompletionsHttpClient`** to expose non-success HTTP status via a typed exception instead of a plain `IOException`, released in [v1.9.0](https://github.com/google/adk-java/releases/tag/v1.9.0) ([052f31a](https://github.com/google/adk-java/commit/052f31ad3799124a36bb3bb732458d748fcc6586))
 - [adk-java](https://github.com/google/adk-java) - Fixed Vertex AI session response handling to validate HTTP status before parsing the response, preventing non-success responses from being parsed as valid session data — [PR #1467](https://github.com/google/adk-java/pull/1467)
-- [adk-js](https://github.com/google/adk-js) - Reworked Unix-socket URI parsing in `getConnectionOptionsFromUri` for Postgres, MySQL, and MariaDB, fixing Cloud SQL socket paths (`/cloudsql/PROJECT:REGION:INSTANCE`, `?host=` overrides, percent-encoding) that `new URL()` couldn't handle, merged to `main` and pending release in v2.1.0 ([3b59a2c](https://github.com/google/adk-js/commit/3b59a2c0b361e229ee3b8c26e93588fb512773db))
+
+<div align="center">
+
+[![Swiftlang](https://img.shields.io/badge/Swiftlang-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/swiftlang)
+[![Merged PR](https://img.shields.io/badge/Merged%20PRS-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/swiftlang)
+
+</div>
+
+- [llvm-project](https://github.com/swiftlang/llvm-project) - Migrated Sema call sites to use `Type::isSinglePointerType()` instead of reading the ptrattr directly off `PointerType`, consolidating pointer-singleness checks under BoundsSafety — [PR #13846](https://github.com/swiftlang/llvm-project/pull/13846)
+- [swift-build](https://github.com/swiftlang/swift-build) - Fixed a **Build Server Protocol (BSP)** issue — corrected transposed `indexStorePath` / `indexDatabasePath` values in the `build/initialize` response, improving BSP client compatibility — [PR #1576](https://github.com/swiftlang/swift-build/pull/1576)
+</td>
+<td width="50%" valign="top">
 
 <div align="center">
 
@@ -33,18 +45,6 @@ Focused on evidence-first root-cause investigation across traces, failures, and 
 - Fixed **`tf.tuple()`** `AttributeError` for `tf.Variable` inputs under `tf.function` by routing them through `convert_to_tensor()` instead of skipping conversion — [PR #125420](https://github.com/tensorflow/tensorflow/pull/125420)
 - Fixed **`tf.tuple()`** to consistently reject nested structures across eager and graph execution — [PR #124931](https://github.com/tensorflow/tensorflow/pull/124931)
 - Fixed eager **`tf.while_loop`** corrupting shape for single-element loop variables when the body returned a bare Tensor — [PR #125616](https://github.com/tensorflow/tensorflow/pull/125616)
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-[![Swiftlang](https://img.shields.io/badge/Swiftlang-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/swiftlang)
-[![Merged PR](https://img.shields.io/badge/Merged%20PRS-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/swiftlang)
-
-</div>
-
-- [llvm-project](https://github.com/swiftlang/llvm-project) - Migrated Sema call sites to use `Type::isSinglePointerType()` instead of reading the ptrattr directly off `PointerType`, consolidating pointer-singleness checks under BoundsSafety — [PR #13846](https://github.com/swiftlang/llvm-project/pull/13846)
-- [swift-build](https://github.com/swiftlang/swift-build) - Fixed a **Build Server Protocol (BSP)** issue — corrected transposed `indexStorePath` / `indexDatabasePath` values in the `build/initialize` response, improving BSP client compatibility — [PR #1576](https://github.com/swiftlang/swift-build/pull/1576)
 
 <div align="center">
 
