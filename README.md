@@ -48,7 +48,7 @@ Focused on evidence-first root-cause investigation across traces, failures, and 
 
 <div align="center">
 
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://github.com/prisma/prisma)
+[![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://github.com/prisma/prisma)
 [![Merged PRs](https://img.shields.io/badge/%20Merged%20PRs-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/prisma/prisma/pulls?q=is%3Apr+author%3AAnupamKumar-1)
 
 </div>
