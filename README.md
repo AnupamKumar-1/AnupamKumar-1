@@ -47,6 +47,17 @@ Focused on evidence-first root-cause investigation across traces, failures, and 
 
 <div align="center">
 
+
+[![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=data:image%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTWljcm9zb2Z0PC90aXRsZT48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMCAwaDExLjM3N3YxMS4zNzJIMFYwem0xMi42MjMgMEgyNHYxMS4zNzJIMTIuNjIzVjB6TTAgMTIuNjIzaDExLjM3N1YyNEgwVjEyLjYyM3ptMTIuNjIzIDBIMjRWMjRIMTIuNjIzVjEyLjYyM3oiLz48L3N2Zz4%3D)](https://github.com/microsoft)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=white)](https://github.com/microsoft/vscode)
+[![Merged PRs](https://img.shields.io/badge/Merged%20PRs-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/microsoft/vscode/pulls?q=is%3Apr+author%3AAnupamKumar-1)
+
+</div>
+
+- Fixed **`fix(chat)`** — preserved an inline `#file:` reference when editing text before it, merged to `main` — [PR #333965](https://github.com/microsoft/vscode/pull/333965)
+
+<div align="center">
+  
 [![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://github.com/prisma/prisma)
 [![Merged PRs](https://img.shields.io/badge/%20Merged%20PRs-8957e5?style=for-the-badge&logo=git&logoColor=white)](https://github.com/prisma/prisma/pulls?q=is%3Apr+author%3AAnupamKumar-1)
 
