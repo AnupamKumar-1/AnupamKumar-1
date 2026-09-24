@@ -53,7 +53,7 @@ Focused on evidence-first root-cause investigation across traces, failures, and 
 
 </div>
 
-- Fixed `fix(chat)` — preserved an inline `#file:` reference when editing text before it; edits that touch the reference still remove it, while non-overlapping edits now recompute the reference range from the net offset delta — merged to main — [PR #333965](https://github.com/microsoft/vscode/pull/333965)
+- Fixed `fix(chat)` — preserved an inline `#file:` reference when editing text before it; edits that touch the reference still remove it, while non-overlapping edits now recompute the reference range from the net offset delta — merged to main — shipped in [VS Code 1.139](https://code.visualstudio.com/updates/v1_139) — [PR #333965](https://github.com/microsoft/vscode/pull/333965)
 
 <div align="center">
   
