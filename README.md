@@ -1,6 +1,6 @@
 ## 🧑‍💻 About Me
 
-Building **[Obyflow](https://github.com/Obyflow/obyflow)** — a local-first observability platform for debugging LLM, RAG, and agent systems.
+Building and maintaining **[Obyflow](https://github.com/Obyflow/obyflow)** — a local-first observability platform for debugging LLM, RAG, and agent systems.
 
 Focused on evidence-first root-cause investigation across traces, failures, and AI workflows.
 
