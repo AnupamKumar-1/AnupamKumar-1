@@ -70,7 +70,7 @@ Focused on evidence-first root-cause investigation across traces, failures, and 
 </table>
 <br>
 
-<div><a href="https://cloud.layer5.io/user/64a57ad4-0fd6-4444-88d5-4ad5cdfa7ca8?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
+<div><a href="https://cloud.layer5.io/user/64a57ad4-0fd6-4444-88d5-4ad5cdfa7ca8?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></sup></div>
 
 ## 🌐 Connect
 
